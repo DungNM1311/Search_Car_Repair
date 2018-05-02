@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SearchCarRepairV1.0</string>
+    <string name="facebook_app_id">152582535434964</string>
+    <string name="fb_login_protocol_scheme">fb152582535434964</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
